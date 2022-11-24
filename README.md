@@ -63,6 +63,12 @@ This repo mainly collects paper of RL (Reinforcement Learning) and Its Applicati
          <a href="https://github.com/JohnJim0816">John Jim</a>
          <p> offline RL <br> PKU </p>
       </td>
+      <td>
+         <a href="https://github.com/wenhao0214"><img width="70" height="70" src="https://github.com/wenhao0214.png?s=40" alt="pic"></a><br>
+         <a href="https://github.com/wenhao0214">John Jim</a>
+         <p> RL4IIoT <br> XJTU </p>
+      </td>
+      
     </tr>
   </tbody>
 </table>
