@@ -70,6 +70,5 @@ This repo mainly collects paper of RL (Reinforcement Learning) and Its Applicati
          <a href="https://github.com/wenhao0214">Wenhao Wu</a>
          <p> RL4IIoT <br> XJTU </p>
       </td>
-  </tr>
   </tbody>
 </table>
