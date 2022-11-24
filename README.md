@@ -6,6 +6,8 @@
 
 [RL4RS]()
 
+[RL4Game](./RL4Game.md)
+
 [RL4Traffics]()
 
 [RL4Policy-Diversity]()
