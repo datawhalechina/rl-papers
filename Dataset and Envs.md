@@ -1,3 +1,7 @@
+## Frameworks
+
+[OpenSpiel](https://github.com/deepmind/open_spiel): A Framework for Reinforcement Learning in Games, including **DeepNash**
+
 ### RL-basics
 
 * [OpenAI Gym](https://github.com/openai/gym)
