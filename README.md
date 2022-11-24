@@ -18,6 +18,8 @@ This repo mainly collects paper of RL (Reinforcement Learning) and Its Applicati
 
 [RL4QD](./RL4QD.md)
 
+[RL4IL]: RL for imitation learning
+
 [RL4Robot](./RL-Robot-related-papers.md) 
 
 ## Tools
