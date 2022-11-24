@@ -1,6 +1,3 @@
-
-
-
 ## Paper Collection of RL basics
 
 ### Review papers
@@ -18,6 +15,7 @@
 * DRQN: [Deep Recurrent Q-Learning for Partially Observable MDPs](https://www.aaai.org/ocs/index.php/FSS/FSS15/paper/view/11673/11503), M Hausknecht e al 2015, AAAI.
 * Noisy DQN: [Noisy Networks for Exploration](https://arxiv.org/pdf/1706.10295.pdf), M Fortunato et al 2017, ICLR.
 * Averaged-DQN: [Averaged-DQN: Variance Reduction and Stabilization for Deep Reinforcement Learning](http://proceedings.mlr.press/v70/anschel17a/anschel17a.pdf), O Anschel et al 2016, ICML.
+* C51: [A Distributional Perspective on Reinforcement Learning](https://arxiv.org/abs/1707.06887), 2017, ICML
 * [Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning](https://arxiv.org/pdf/1708.02596.pdf),A Nagabandi et al 2017, ICRA.
 * [Deep Reinforcement Learning and the Deadly Triad](https://arxiv.org/pdf/1812.02648.pdf), H. V. Hasselt et al 2018.
 
