@@ -7,31 +7,18 @@
 ### DQN Related
 
 * DQN: [Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602v1.pdf), V.Mnih et al 2013.
-
   > Typical DQN paper
-
 * DQN: [Human-level control through deep reinforcement learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf), V.Mnih et al 2015, Nature.
-
   > Narture DQN, Compared to typical DQN paper, proposes a periodically updated target Q to address instabilities, which is more common today
-
 * DoubleDQN: [Deep Reinforcement Learning with Double Q-Learning](https://ojs.aaai.org/index.php/AAAI/article/view/10295), H Van Hasselt et al 2016, AAAI.
-
 * DuelingDQN: [Dueling Network Architectures for Deep Reinforcement Learning](http://proceedings.mlr.press/v48/wangf16.pdf), Z Wang et al 2015.
-
 * PER: [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952.pdf), T Schaul et al 2015, ICLR.
-
 * Rainbow DQN: [Rainbow: Combining Improvements in Deep Reinforcement Learning](https://arxiv.org/pdf/1710.02298.pdf), M Hessel et al 2017, AAAI.
-
 * DRQN: [Deep Recurrent Q-Learning for Partially Observable MDPs](https://www.aaai.org/ocs/index.php/FSS/FSS15/paper/view/11673/11503), M Hausknecht e al 2015, AAAI.
-
 * Noisy DQN: [Noisy Networks for Exploration](https://arxiv.org/pdf/1706.10295.pdf), M Fortunato et al 2017, ICLR.
-
 * Averaged-DQN: [Averaged-DQN: Variance Reduction and Stabilization for Deep Reinforcement Learning](http://proceedings.mlr.press/v70/anschel17a/anschel17a.pdf), O Anschel et al 2016, ICML.
-
 * C51: [A Distributional Perspective on Reinforcement Learning](https://arxiv.org/abs/1707.06887), 2017, ICML
-
 * [Neural Network Dynamics for Model-Based Deep Reinforcement Learning with Model-Free Fine-Tuning](https://arxiv.org/pdf/1708.02596.pdf),A Nagabandi et al 2017, ICRA.
-
 * [Deep Reinforcement Learning and the Deadly Triad](https://arxiv.org/pdf/1812.02648.pdf), H. V. Hasselt et al 2018.
 
 ### Policy gradient and related
@@ -41,6 +28,7 @@
 * TRPO: [Trust Region Policy Optimization](http://proceedings.mlr.press/v37/schulman15.pdf), J. Schulman et al 2015, ICML.
 * GAE: [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/pdf/1506.02438.pdf), J. Schulman et al 2015, ICLR.
 * PPO: [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf), J. Schulman et al 2017.
+  > Update in small batches, solve the problem that step size in Policy Gradient algorithm is difficult to determine, and KL divergence as Penalty is easier to solve than TRPO
 * [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/pdf/1707.02286.pdf), N. Heess et al 2017.
 * ACKTR: [Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](https://proceedings.neurips.cc/paper/2017/file/361440528766bbaaaa1901845cf4152b-Paper.pdf), Y Wu et al 2017, NIPS.
 * ACER: [Sample Efficient Actor-Critic with Experience Replay](https://arxiv.org/pdf/1611.01224.pdf), Z Wang et al 2016, ICLR.
