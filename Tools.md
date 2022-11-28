@@ -1,3 +1,7 @@
+# RL Tools
+
+Contributors: [johnjim0816](https://github.com/JohnJim0816)
+
 ## Frameworks
 
 [OpenSpiel](https://github.com/deepmind/open_spiel): A Framework for Reinforcement Learning in Games, including **DeepNash**
