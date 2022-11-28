@@ -1,4 +1,4 @@
-# **Combining Evolution and Deep Reinforcement Learning for Policy Search: a Survey**
+# Combining Evolution and Deep Reinforcement Learning for Policy Search: a Survey
 
 ## **Policy Search**  
 

@@ -1,5 +1,7 @@
 # RL- IIoT-related
 
+Contributors: [Wenhao Wu](https://github.com/wenhao0214)
+
 ### Network Scheduling
 
 [Cellular network traffic scheduling with deep reinforcement learning](https://dl.acm.org/doi/10.5555/3504035.3504129), Sandeep Chinchali et al 2018, AAAI.

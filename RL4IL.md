@@ -1,5 +1,7 @@
 # RL for imitation learning
 
+Contributors: [johnjim0816](https://github.com/JohnJim0816)
+
 ## Surveys
 
 [A Imitation Learning: A Survey of Learning Methods](https://core.ac.uk/download/pdf/141207521.pdf)
