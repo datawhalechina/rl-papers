@@ -1,3 +1,7 @@
+# RL4DrugDiscovery
+
+
+
 * **GCPN**: [Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation](https://arxiv.org/abs/1806.02473), You et al 2018, NIPS.
 * **MolDQN**: [Optimization of Molecules via Deep Reinforcement Learning](https://arxiv.org/abs/1810.08678), Zhou et al 2018, Sci. Rep.
 * **MolGAN**: [MolGAN: An implicit generative model for small molecular graphs](https://arxiv.org/abs/1805.11973), De Cao et al 2018, ICML.

@@ -1,5 +1,6 @@
 # Paper Collection of MARL
 
+Contributors:
 ## MARL Basic
 
 ### CTDE : Centralized Training, Decentralized Execution

@@ -51,6 +51,11 @@ This repo mainly collects paper of RL (Reinforcement Learning) and Its Applicati
          <p> QD&ERL <br> NJU </p>
       </td>
       <td>
+         <a href="https://github.com/clorisqiu1"><img width="70" height="70" src="https://github.com/clorisqiu1.png?s=40" alt="pic"></a><br>
+         <a href="https://github.com/clorisqiu1">Wen Qiu</a>
+         <p> DQN&PG&Exploration <br> KIT </p>
+      </td>
+      <td>
          <a href="https://github.com/shikejianalan"><img width="70" height="70" src="https://github.com/shikejianalan.png?s=40" alt="pic"></a><br>
          <a href="https://github.com/shikejianalan">Kejian Shi</a>
          <p> RL&Robotics <br> IC </p>

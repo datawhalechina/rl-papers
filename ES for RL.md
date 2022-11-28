@@ -1,5 +1,7 @@
 # Combining Evolution and Deep Reinforcement Learning for Policy Search: a Survey
 
+Contributors:
+
 ## **Policy Search**  
 
 1. **PEPG:** [Parameter-exploring policy gradients](https://www.sciencedirect.com/science/article/abs/pii/S0893608009003220), Sehnke F et al, 2010, Neural Networks.  

@@ -1,5 +1,7 @@
 ## Paper Collection of RL basics
 
+Contributors:
+
 ### Review papers
 
 * Offline RL: [A Survey on Offline Reinforcement Learning: Taxonomy, Review, and Open Problems](https://arxiv.org/abs/2203.01387), Rafael Figueiredo Prudencio et al, 2022
