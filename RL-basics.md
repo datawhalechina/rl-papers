@@ -31,7 +31,7 @@ Contributors:
 * GAE: [High-Dimensional Continuous Control Using Generalized Advantage Estimation](https://arxiv.org/pdf/1506.02438.pdf), J. Schulman et al 2015, ICLR.
 * PPO: [Proximal Policy Optimization Algorithms](https://arxiv.org/pdf/1707.06347.pdf), J. Schulman et al 2017.
   > Update in small batches, solve the problem that step size in Policy Gradient algorithm is difficult to determine, and KL divergence as Penalty is easier to solve than TRPO
-* [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/pdf/1707.02286.pdf), N. Heess et al 2017.
+* Distributed PPO: [Emergence of Locomotion Behaviours in Rich Environments](https://arxiv.org/pdf/1707.02286.pdf), N. Heess et al 2017.
 * ACKTR: [Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation](https://proceedings.neurips.cc/paper/2017/file/361440528766bbaaaa1901845cf4152b-Paper.pdf), Y Wu et al 2017, NIPS.
 * ACER: [Sample Efficient Actor-Critic with Experience Replay](https://arxiv.org/pdf/1611.01224.pdf), Z Wang et al 2016, ICLR.
 * DPG: [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf), D Silver et al 2014, ICML.
