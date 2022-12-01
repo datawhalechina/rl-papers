@@ -63,7 +63,11 @@ Contributors:
 
 ### Maximum Entropy RL
 
-* SAC:[Soft Actor-Critic:Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](http://proceedings.mlr.press/v80/haarnoja18b/haarnoja18b.pdf), T Haarnoja et al 2018, ICML.
+* SAC_V: [Soft Actor-Critic:Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](http://proceedings.mlr.press/v80/haarnoja18b/haarnoja18b.pdf), T Haarnoja et al 2018, ICML.
+
+* SAC: [Soft Actor-Critic Algorithms and Applications ](https://arxiv.org/pdf/1812.05905.pdf), T Haarnoja et al 2018, CoRR 
+
+  > SAC_V suffers from brittleness to the temperature hyperparameter, thus SAC solves it by automatic gradient-based temperature.
 
 
 ### Distributed RL
