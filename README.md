@@ -1,14 +1,17 @@
+
+
+# Paper Collection of RL and Its Applications
 This repo mainly collects paper of RL (Reinforcement Learning) and Its Applications, and also tools including datasets , envs and frameworks usually used in RL.
 
-## Paper Collection of RL and Its Applications
+## Paper lists
 
-[RL-basics](./RL-basics.md)
+[RL-basics](./RL-basics.md): basic papers of RL, if you want to learn RL, you must not miss these.
 
-[MARL-basics](./MARL-basics.md)
+[MARL-basics](./MARL-basics.md):  basic papers of multi-agent reinforcement learning(MARL), if you want to learn RL, you must not miss these.
 
-[RL4RS]()
+[RL4RS](): RL for recommendation systems
 
-[RL4Game](./RL4Game.md)
+[RL4Game](./RL4Game.md): RL for game theory
 
 [RL4Traffics]()
 
