@@ -23,7 +23,7 @@ This repo mainly collects paper of RL (Reinforcement Learning) and Its Applicati
 
 [RL4IL](./RL4IL.md): RL for imitation learning
 
-[RL4Robot](./RL-Robot-related-papers.md) 
+[RL4Robot](./RL4Robot.md): RL for Robot. According to the classification of robot types, papers of the same category are arranged in chronological order, and papers that have been physically verified are preferred.
 
 [RL4IIoT](./RL4IIoT.md): With the technological breakthrough of 5G, more and more Internet of Things (IoT) technologies are being used in industrial scenarios. Industrial IoT (IIoT), which refers to the integrating industrial manufacturing systems and the Internet of Things (IoT), has received accumulating attention. These emerging IIoT applications and have higher requirements on quality of experience (QoE) which cannot be easily satisfied by heuristic algorithms. Recently, some research use RL to learn algorithms for IIoT tasks through exploiting the potential feature of the IIoT environment,
 
