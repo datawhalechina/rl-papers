@@ -64,11 +64,6 @@ This repo mainly collects paper of RL (Reinforcement Learning) and Its Applicati
          <p> RL&Robotics <br> IC </p>
       </td>
       <td>
-         <a href="https://github.com/ai4drug"><img width="70" height="70" src="https://github.com/TienyuZuo.png?s=40" alt="pic"></a><br>
-         <a href="https://github.com/TienyuZuo">Tienyu Zuo</a>
-         <p> RL-Metalearning <br> NUIST </p>
-      </td>
-      <td>
          <a href="https://github.com/JohnJim0816"><img width="70" height="70" src="https://github.com/JohnJim0816.png?s=40" alt="pic"></a><br>
          <a href="https://github.com/JohnJim0816">John Jim</a>
          <p> offline RL <br> PKU </p>
