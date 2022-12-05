@@ -1,3 +1,11 @@
+<!--
+ * @Author: QIU clorisqiu1@gmail.com
+ * @Date: 2022-12-03 22:45:58
+ * @LastEditors: QIU clorisqiu1@gmail.com
+ * @LastEditTime: 2022-12-03 23:28:55
+ * @FilePath: /rl-papers/RL-basics.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 ## Paper Collection of RL basics
 
 Contributors:
@@ -85,6 +93,14 @@ Contributors:
 * TD3+BC: [A Minimalist Approach to Offline Reinforcement Learning](https://arxiv.org/abs/2106.06860), Scott Fujimoto et al 2020.
 * CQL: [Conservative Q-Learning for Offline Reinforcement Learning](https://arxiv.org/abs/2006.04779), Aviral Kumar et al 2020, CoRR.
 * IQL: [Offline Reinforcement Learning with Implicit Q-Learning](https://arxiv.org/abs/2110.06169), Ilya Kostrikov et al 2021.
+
+
+*** IRL
+* App: [Apprenticeship Learning via Inverse Reinforcement Learning](https://www.cs.utexas.edu/~sniekum/classes/RLFD-F15/papers/Abbeel04.pdf), P Abbeel et al 2004.
+* [Maximum Entropy Inverse Reinforcement Learning](https://www.aaai.org/Papers/AAAI/2008/AAAI08-227.pdf?source=post_page---------------------------), BD Ziebart et al 2008, AAAI.
+* [Relative Entropy Inverse Reinforcement Learning](http://proceedings.mlr.press/v15/boularias11a/boularias11a.pdf), A Boularias et al 2011, AISTATS.
+
+
 
 ## Refs
 
