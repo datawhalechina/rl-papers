@@ -1,5 +1,6 @@
 # Meta-learning
 
+Authors: [Tienyu Zuo](https://github.com/TienyuZuo)
 * [Meta-learning from Learning Curves: Challenge Design and Baseline Results](https://ieeexplore.ieee.org/document/9892534), Nguyen et al, 2022, IJCNN.
 
 * [Exploration With Task Information for Meta Reinforcement Learning](https://ieeexplore.ieee.org/document/9604770), Peng et al, 2021, IEEE Trans. NNLS.
