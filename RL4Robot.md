@@ -1,18 +1,10 @@
 # RL-Robot-related
 
-* Date: 2022/10/28
-* Author: Lyq
+Contributors: [Yongqi Li](https://github.com/L3Y1Q2)
 
-## 1. Papers
+### legged robot
 
-* Classification according to robot type.
-* Papers of the same category are arranged in chronological order.
-* Physically verified papers get priority.
-* Welcome to the supplement.
-
-### 1.1 legged robot
-
-#### 1.1.1 quadrupedal robot
+#### quadrupedal robot
 
 * [Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning](https://proceedings.mlr.press/v164/rudin22a.html), Rudin N et al 2022, CoRL
 * [Learning robust perceptive locomotion for quadrupedal robots in the wild](https://www.science.org/doi/abs/10.1126/scirobotics.abk2822), Takahiro Miki et al 2022, Science Robotics
@@ -30,7 +22,7 @@
 
 * [Robust Rough-Terrain Locomotion with a Quadrupedal Robot](https://ieeexplore.ieee.org/abstract/document/8460731), Peter Fankhauser et al 2018, ICRA
 
-#### 1.1.2 bipedal robot
+#### bipedal robot
 
 * [Towards Real Robot Learning in the Wild: A Case Study in Bipedal Locomotion](https://proceedings.mlr.press/v164/bloesch22a.html), Bloesch M et al 2022, CoRL
 * [Sim-to-Real Learning for Bipedal Locomotion Under Unsensed Dynamic Loads](https://arxiv.org/abs/2204.04340), Jeremy Dao et al 2022, ICRA
@@ -44,13 +36,19 @@
 
 * [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills](https://www.semanticscholar.org/paper/1b9ce6abc0f3024b88fcd4dbd0c10cf5bcf7d38d), Xue Bin Peng et al 2018, TOG
 
-### 1.2 UAV
+### UAV
 
 * [Learning Minimum-Time Flight in Cluttered Environments](https://rpg.ifi.uzh.ch/docs/RAL_IROS22_Penicka.pdf), Robert Penicka et al 2022, RAL
 
+  > On the basis of [previous work](https://rpg.ifi.uzh.ch/docs/IROS21_Yunlong.pdf), obstacles are considered.
+
 * [Learning High-Speed Flight in the Wild](https://rpg.ifi.uzh.ch/AgileAutonomy.html), A. Loquercio et al 2021, Science Robotics
 
+  >  This paper proposes an end-to-end approach that can autonomously fly quadrotors through complex natural and man-made environments at high speeds, with purely onboard sensing and computation.
+
 * [Autonomous Drone Racing with Deep Reinforcement Learning](https://rpg.ifi.uzh.ch/docs/IROS21_Yunlong.pdf), Yunlong Song et al 2021, IROS
+
+  > This paper presents a learning-based method for autonomous drone racing.
 
 * [A Two-Stage Reinforcement Learning Approach for Multi-UAV Collision Avoidance Under Imperfect Sensing](https://ieeexplore.ieee.org/abstract/document/9001167), Wang D et al 2020, RAL
 
@@ -62,11 +60,15 @@
 
 * [Reinforcement learning for UAV attitude control](https://dl.acm.org/doi/abs/10.1145/3301273), William Koch et al 2019, TCPS
 
+  > This paper replaces the inner-loop PID attitude controller with reinforcement learning.
+
 * [Autonomous UAV Navigation Using Reinforcement Learning](https://arxiv.org/abs/1801.05086), Huy X. Pham et al 2018, IJMLC
 
 * [Control of a quadrotor with reinforcement learning](https://ieeexplore.ieee.org/abstract/document/7961277/), Hwangbo J et al 2017, RAL
 
-### 1.3 UGV&USV
+  > The paper proposes autonomous UAV stability control based on reinforcement learning.
+
+### UGV&USV
 
 * [Goal-Driven Autonomous Exploration Through Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9645287/), Cimurs R et al 2021, RAL
 * [Path Planning Algorithms for USVs via Deep Reinforcement Learning](https://www.semanticscholar.org/paper/Path-Planning-Algorithms-for-USVs-via-Deep-Learning-Zhai-Wang/b7d3afecf5ea672621b1f96d28ea7542c02afc1a), Haoran Zhai et al 2021, CAC
@@ -79,7 +81,7 @@
 * [Socially aware motion planning with deep reinforcement learning](https://www.semanticscholar.org/paper/Socially-aware-motion-planning-with-deep-learning-Chen-Everett/fe2ef22089712fcff33a77761860a10b7834da47), Yu Fan Chen et al 2017, IROS
 * [From perception to decision: A data-driven approach to end-to-end motion planning for autonomous ground robots](https://www.semanticscholar.org/paper/From-perception-to-decision%3A-A-data-driven-approach-Pfeiffer-Schaeuble/aa0b2517c1555fc5b3885723959f7ac950ba1626), Mark Pfeiffer et al 2017, ICRA
 
-### 1.4 manipulator
+### manipulator
 
 * [Learning dexterous in-hand manipulation](https://journals.sagepub.com/doi/abs/10.1177/0278364919887447), Andrychowicz et al 2020, IJRR
 * [Dynamics Learning with Cascaded Variational Inference for Multi-Step Manipulation](https://www.semanticscholar.org/paper/Dynamics-Learning-with-Cascaded-Variational-for-Fang-Zhu/1674008abd47f1ce1e894c672074a47ee6c3288c), Kuan Fang et al 2019, CoRL
@@ -93,7 +95,7 @@
 * [Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations](https://www.semanticscholar.org/paper/Learning-Complex-Dexterous-Manipulation-with-Deep-Rajeswaran-Kumar/e010ba3ff5744604cdbfe44a733e2a98649ee907), A. Rajeswaran et al 2018, RSS
 * [Deep reinforcement learning for robotic manipulation with asynchronous off-policy updates](https://www.semanticscholar.org/paper/Deep-reinforcement-learning-for-robotic-with-Gu-Holly/e37b999f0c96d7136db07b0185b837d5decd599a), S. Gu et al 2017, ICRA
 
-### 1.5 MRS
+### MRS
 
 * [MAMBPO: Sample-efficient *multi*-*robot* reinforcement learning using learned world models](https://www.semanticscholar.org/paper/MAMBPO%3A-Sample-efficient-multi-robot-reinforcement-Willemsen-Coppola/b7cb2bb1c116efd825d391c6e17028f51770cac7), Daniel Willemsen et al 2021, IROS
 * [Adaptive and extendable control of unmanned surface vehicle formations using distributed deep reinforcement learning](https://www.semanticscholar.org/paper/Adaptive-and-extendable-control-of-unmanned-surface-Wang-Ma/f1880a9a9d3080c516be80b0bc7a6d4c9fcdd137), Shuwu Wang et al 2021, 
@@ -106,7 +108,7 @@
 * [Motion Planning Among Dynamic, Decision-Making Agents with Deep Reinforcement Learning](https://www.semanticscholar.org/paper/Motion-Planning-Among-Dynamic%2C-Decision-Making-with-Everett-Chen/f3161b75de1e37b0591f250068b676ea72d1ba22), Michael Everett et al 2018, IROS
 * [Decentralized non-communicating multiagent collision avoidance with deep reinforcement learning](https://ieeexplore.ieee.org/abstract/document/7989037/), YF Chen et al 2017, ICRA
 
-### 1.6 simulator-related
+### simulator-related
 
 * [Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning](https://www.semanticscholar.org/paper/49142e3e381c0dc7fee0049ea41d2ef02c0340d7), Viktor Makoviychuk et al 2021, NeurIPS
 * [Flightmare: A Flexible Quadrotor Simulator](https://rpg.ifi.uzh.ch/docs/CoRL20_Yunlong.pdf), Yunlong Song et al 2020, CoRL
@@ -114,7 +116,7 @@
 * [FlightGoggles: A Modular Framework for Photorealistic Camera, Exteroceptive Sensor, and Dynamics Simulation](https://ieeexplore.ieee.org/abstract/document/8968116/), Winter Guerra et al 2019, IROS 
 * [AirSim Drone Racing Lab](http://proceedings.mlr.press/v123/madaan20a.html), Ratnesh Madaan et al 2019, NeurIPS
 
-### 1.7 research groups & institutes
+### research groups & institutes
 
 * [Robotics and Perception Group, University of Zurich](https://rpg.ifi.uzh.ch/)
 
