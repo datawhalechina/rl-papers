@@ -6,10 +6,18 @@ Contributors: [Yongqi Li](https://github.com/L3Y1Q2)
 
 #### quadrupedal robot
 
+* [Creating a Dynamic Quadrupedal Robotic Goalkeeper with Reinforcement Learning](https://arxiv.org/abs/2210.04435), Huang, Xiaoyu et al 2022, arXiv
+
+  > A hierarchical reinforcement learning framework is used to intercept the ball by combining a quadruple robot with high dynamic motion and an object perception method.
+
 * [Learning to Walk in Minutes Using Massively Parallel Deep Reinforcement Learning](https://proceedings.mlr.press/v164/rudin22a.html), Rudin N et al 2022, CoRL
+
 * [Learning robust perceptive locomotion for quadrupedal robots in the wild](https://www.science.org/doi/abs/10.1126/scirobotics.abk2822), Takahiro Miki et al 2022, Science Robotics
+
 * [Legged Robots that Keep on Learning: Fine-Tuning Locomotion Policies in the Real World](https://www.semanticscholar.org/paper/35efc3a4c5f64d96ded6daea692f3935c96f0415), Laura Smith et al 2022, ICRA
+
 * [Cat-Like Jumping and Landing of Legged Robots in Low Gravity Using Deep Reinforcement Learning](https://www.semanticscholar.org/paper/7e8186146b95337d24d28dda05cab886621cdf8c), Rudin N et al 2021, TRO
+
 * [Learning quadrupedal locomotion over challenging terrain](https://www.semanticscholar.org/paper/eadbe2e4f9de47dd357589cf59e3d1f0199e5075), Joonho Lee et al 2020, Science Robotics
 
 * [Learning Agile Robotic Locomotion Skills by Imitating Animals](https://arxiv.org/abs/2004.00784), Xue Bin Peng et al 2020, RSS
@@ -52,17 +60,27 @@ Contributors: [Yongqi Li](https://github.com/L3Y1Q2)
 
 * [A Two-Stage Reinforcement Learning Approach for Multi-UAV Collision Avoidance Under Imperfect Sensing](https://ieeexplore.ieee.org/abstract/document/9001167), Wang D et al 2020, RAL
 
+  > A two-stage training method for collision avoidance based on DDPG can generate a time-effective and collision-free path under imperfect perception.
+
 * [Low-level autonomous control and tracking of quadrotor using reinforcement learning](https://www.sciencedirect.com/science/article/pii/S0967066119301923), Chen Huan Pi et al 2020, CEP
+
+  > Model-free DRL based low-level control algorithm for quadrotor is used for hovering and trajectory tracking.
 
 * [Low-level control of a quadrotor with deep model-based reinforcement learning](https://ieeexplore.ieee.org/abstract/document/8769882/), Lambert N O et al 2019, RAL
 
+  > Model-based DRL based low-level control algorithm for quadrotor.
+
 * [Deterministic Policy Gradient With Integral Compensator for Robust Quadrotor Control](https://ieeexplore.ieee.org/abstract/document/8600717/), Wang Y et al 2019, TSMC
+
+  > DPG-IC: a learning-based robust control strategy for quadrotor control with DRL.
 
 * [Reinforcement learning for UAV attitude control](https://dl.acm.org/doi/abs/10.1145/3301273), William Koch et al 2019, TCPS
 
   > This paper replaces the inner-loop PID attitude controller with reinforcement learning.
 
 * [Autonomous UAV Navigation Using Reinforcement Learning](https://arxiv.org/abs/1801.05086), Huy X. Pham et al 2018, IJMLC
+
+  > This paper presented a technique to train a quadrotor to learn to navigate to the target point using a PID+ Q-learning algorithm in an unknown environment.
 
 * [Control of a quadrotor with reinforcement learning](https://ieeexplore.ieee.org/abstract/document/7961277/), Hwangbo J et al 2017, RAL
 
@@ -111,10 +129,20 @@ Contributors: [Yongqi Li](https://github.com/L3Y1Q2)
 ### simulator-related
 
 * [Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning](https://www.semanticscholar.org/paper/49142e3e381c0dc7fee0049ea41d2ef02c0340d7), Viktor Makoviychuk et al 2021, NeurIPS
+
+  > The most prominent reinforcement learning simulator at this stage
+
 * [Flightmare: A Flexible Quadrotor Simulator](https://rpg.ifi.uzh.ch/docs/CoRL20_Yunlong.pdf), Yunlong Song et al 2020, CoRL
+
+  > [ETH research team](https://rpg.ifi.uzh.ch/) developed a simulator for its own UAV reinforcement learning simulation.
+
 * [Leveraging Deep Reinforcement Learning For Active Shooting Under Open-World Setting](https://link.zhihu.com/?target=https%3A//ieeexplore.ieee.org/abstract/document/9102966), A. Tzimas et al 2020, ICME
+
 * [FlightGoggles: A Modular Framework for Photorealistic Camera, Exteroceptive Sensor, and Dynamics Simulation](https://ieeexplore.ieee.org/abstract/document/8968116/), Winter Guerra et al 2019, IROS 
+
 * [AirSim Drone Racing Lab](http://proceedings.mlr.press/v123/madaan20a.html), Ratnesh Madaan et al 2019, NeurIPS
+
+  > A simulation framework for autonomous drone racing.
 
 ### research groups & institutes
 
