@@ -5,14 +5,16 @@ Contributors:
 
 ### CTDE : Centralized Training, Decentralized Execution
 1. VDN :[Value-decomposition networks for cooperative multi-agent learning](https://arxiv.org/pdf/1706.05296.pdf), Sunehag P, et al 2017.  
-2. QMIX : [Qmix: Monotonic value function factorisation for deep multi-agent reinforcement learning](http://proceedings.mlr.press/v80/rashid18a/rashid18a.pdf) Rashid T, et al 2018, ICML
-3. QTRAN : [Qtran: Learning to factorize with transformation for cooperative multi-agent reinforcement learning](http://proceedings.mlr.press/v97/son19a/son19a.pdf) Son K, et al 2019, ICML
-4. QATTEN : [Qatten: A general framework for cooperative multiagent reinforcement learning](https://arxiv.org/pdf/2002.03939.pdf) Yang Y, et al 2020. 
-3. MADDPG : [Multi-agent actor-critic for mixed cooperative-competitive environments](https://proceedings.neurips.cc/paper/2017/file/68a9750337a418a86fe06c1991a1d64c-Paper.pdf) Lowe R et al 2017, NIPS 
-4. COMA : [Counterfactual multi-agent policy gradients Foerster](https://ojs.aaai.org/index.php/AAAI/article/download/11794/11653) J et al 2018, AAAI
-8.  MAPPO : [Joint optimization of handover control and power allocation based on multi-agent deep reinforcement learning](https://github.com/cr-bh/on-policy) Guo D, et al 2020
-9. HATRPO & HAPPO : [Trust region policy optimisation in multi-agent reinforcement learning](https://arxiv.org/pdf/2109.11251.pdf) Kuba J G, et al 2021
-7. MA3C : [Asynchronous Actor-Critic for Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2209.10113.pdf) Xiao Y, et al 2022
+2. QMIX : [Qmix: Monotonic value function factorisation for deep multi-agent reinforcement learning](http://proceedings.mlr.press/v80/rashid18a/rashid18a.pdf) Rashid T, et al 2018, ICML.
+3. QTRAN : [Qtran: Learning to factorize with transformation for cooperative multi-agent reinforcement learning](http://proceedings.mlr.press/v97/son19a/son19a.pdf) Son K, et al 2019, ICML.
+4. QATTEN : [Qatten: A general framework for cooperative multiagent reinforcement learning](https://arxiv.org/pdf/2002.03939.pdf) Yang Y, et al 2020.
+5. MADDPG : [Multi-agent actor-critic for mixed cooperative-competitive environments](https://proceedings.neurips.cc/paper/2017/file/68a9750337a418a86fe06c1991a1d64c-Paper.pdf) Lowe R et al 2017, NIPS.
+6. COMA : [Counterfactual multi-agent policy gradients Foerster](https://ojs.aaai.org/index.php/AAAI/article/download/11794/11653) J et al 2018, AAAI.
+7. MAPPO : [Joint optimization of handover control and power allocation based on multi-agent deep reinforcement learning](https://github.com/cr-bh/on-policy) Guo D, et al 2020.
+8. MAPPO:[The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games](https://arxiv.org/pdf/2103.01955.pdf) Chao Y et al, 2022.
+    > Identify and analyze 5 key implementation and hyperparameter factors that are influential in PPO’s performance in cooperative MARL tasks with dscrete action space.
+9. HATRPO & HAPPO : [Trust region policy optimisation in multi-agent reinforcement learning](https://arxiv.org/pdf/2109.11251.pdf) Kuba J G, et al 2021.
+10. MA3C : [Asynchronous Actor-Critic for Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2209.10113.pdf) Xiao Y, et al 2022
 
 ### DTDE : Decentralized Training, Decentralized Execution
 IPPO : [Is independent learning all you need in the starcraft multi-agent challenge?](https://arxiv.org/pdf/2011.09533) de Witt C S, et al 2020
