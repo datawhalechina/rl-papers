@@ -11,8 +11,10 @@ Contributors:
 3. MADDPG : [Multi-agent actor-critic for mixed cooperative-competitive environments](https://proceedings.neurips.cc/paper/2017/file/68a9750337a418a86fe06c1991a1d64c-Paper.pdf) Lowe R et al 2017, NIPS 
 4. COMA : [Counterfactual multi-agent policy gradients Foerster](https://ojs.aaai.org/index.php/AAAI/article/download/11794/11653) J et al 2018, AAAI
 8.  MAPPO : [Joint optimization of handover control and power allocation based on multi-agent deep reinforcement learning](https://github.com/cr-bh/on-policy) Guo D, et al 2020
-9. HATRPO & HAPPO : [Trust region policy optimisation in multi-agent reinforcement learning](https://arxiv.org/pdf/2109.11251.pdf) Kuba J G, et al 2021
-7. MA3C : [Asynchronous Actor-Critic for Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2209.10113.pdf) Xiao Y, et al 2022
+9.  MAPPO:[The Surprising Effectiveness of PPO in Cooperative Multi-Agent Games](https://arxiv.org/pdf/2103.01955.pdf) Chao Y et al, 2022.
+> Identify and analyze 5 key implementation and hyperparameter factors that are influential in PPO’s performance in cooperative MARL tasks with dscrete action space.
+11. HATRPO & HAPPO : [Trust region policy optimisation in multi-agent reinforcement learning](https://arxiv.org/pdf/2109.11251.pdf) Kuba J G, et al 2021
+12. MA3C : [Asynchronous Actor-Critic for Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2209.10113.pdf) Xiao Y, et al 2022
 
 ### DTDE : Decentralized Training, Decentralized Execution
 IPPO : [Is independent learning all you need in the starcraft multi-agent challenge?](https://arxiv.org/pdf/2011.09533) de Witt C S, et al 2020
