@@ -10,7 +10,6 @@ Contributors:
 4. QATTEN : [Qatten: A general framework for cooperative multiagent reinforcement learning](https://arxiv.org/pdf/2002.03939.pdf) Yang Y, et al 2020. 
 3. MADDPG : [Multi-agent actor-critic for mixed cooperative-competitive environments](https://proceedings.neurips.cc/paper/2017/file/68a9750337a418a86fe06c1991a1d64c-Paper.pdf) Lowe R et al 2017, NIPS 
 4. COMA : [Counterfactual multi-agent policy gradients Foerster](https://ojs.aaai.org/index.php/AAAI/article/download/11794/11653) J et al 2018, AAAI
-8.  MAPPO : [Joint optimization of handover control and power allocation based on multi-agent deep reinforcement learning](https://github.com/cr-bh/on-policy) Guo D, et al 2020
 9. HATRPO & HAPPO : [Trust region policy optimisation in multi-agent reinforcement learning](https://arxiv.org/pdf/2109.11251.pdf) Kuba J G, et al 2021
 7. MA3C : [Asynchronous Actor-Critic for Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/2209.10113.pdf) Xiao Y, et al 2022
 
