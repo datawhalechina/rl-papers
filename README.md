@@ -19,7 +19,7 @@ This repo mainly collects paper of RL (Reinforcement Learning) and Its Applicati
 
 [RL4DrugDiscovery](./RL4DrugDiscovery.md): Drug discovery is a challenging multi-objective optimization problem where multiple pharmaceutical objectives need to be satisfied. Recently, utilizing reinforcement learning to generate molecules with desired physicochemical properties such as solubility has been acknowledged as a promising strategy for drug design. 
 
-[RL4QD](./RL4QD.md)
+[RL4QD](./RL4QD.md): Quality-Diversity methods are evolutionary based algorithms to return the collection contains several working solutions, and also deal with the exploration-exploitation trade-off. 
 
 [RL4IL](./RL4IL.md): RL for imitation learning
 

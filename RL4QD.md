@@ -116,5 +116,7 @@
 
 
 
+## Refs
 
+[Quality-Diversity optimisation algorithms](https://quality-diversity.github.io/papers.html)
 
