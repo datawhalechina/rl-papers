@@ -89,15 +89,44 @@ Contributors: [Yongqi Li](https://github.com/L3Y1Q2)
 ### UGV&USV
 
 * [Goal-Driven Autonomous Exploration Through Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9645287/), Cimurs R et al 2021, RAL
+
+  > Local navigation with deep reinforcement learning.
+
 * [Path Planning Algorithms for USVs via Deep Reinforcement Learning](https://www.semanticscholar.org/paper/Path-Planning-Algorithms-for-USVs-via-Deep-Learning-Zhai-Wang/b7d3afecf5ea672621b1f96d28ea7542c02afc1a), Haoran Zhai et al 2021, CAC
+
+  > Solving the path planning problem of USV with DQN. (Only Simulation)
+
 * [Mobile robot path planning in dynamic environments through globally guided reinforcement learning](https://ieeexplore.ieee.org/abstract/document/9205217/), B Wang et al 2020, RAL
+
+  > This paper introduces a globally guided RL approach for mobile robots path planning in dynamic environments.
+
 * [Deep reinforcement learning for indoor mobile robot path planning](https://www.mdpi.com/838810), Gao J et al 2020, Sensors
+
+  > Deep reinforcement learning for mobile robot path planning for beginners.
+
 * [PRM-RL: Long-range Robotic Navigation Tasks by Combining Reinforcement Learning and Sampling-Based Planning](https://www.semanticscholar.org/paper/PRM-RL%3A-Long-range-Robotic-Navigation-Tasks-by-and-Faust-Ramirez/551c60bd9178a199c20723122cd26ddd9c0c93b6), Aleksandra Faust et al 2018, ICRA
+
+  > PRM-RL : a hierarchical method for long-range navigation task completion that combines sampling based path planning with reinforcement learning (RL).
+
 * [Target-driven visual navigation in indoor scenes using deep reinforcement learning](https://www.semanticscholar.org/paper/Target-driven-visual-navigation-in-indoor-scenes-Zhu-Mottaghi/7af7f2f539cd3479faae4c66bbef49b0f66202fa), Yuke Zhu et al 2017, ICRA
+
+  > Classical paper of DRL framework for driving visual navigation of target.
+
 * [Virtual-to-real deep reinforcement learning: Continuous control of mobile robots for mapless navigation](https://www.semanticscholar.org/paper/Virtual-to-real-deep-reinforcement-learning%3A-of-for-Tai-Paolo/799c0e461332570ecde97e13266fecde8476efe3), L Tai et al 2017, IROS
+
+  > Classical paper of DRL for mapless navigation of mobile robots.
+
 * [Towards Monocular Vision based Obstacle Avoidance through Deep Reinforcement Learning](https://www.semanticscholar.org/paper/Towards-Monocular-Vision-based-Obstacle-Avoidance-Xie-Wang/eab2c0bb3eda3b2c37b379e574a645d52ec264ef), Linhai Xie et al 2017, RSS
+
+  > D3QN for obstacle avoidance using monocular RGB vision.
+
 * [Socially aware motion planning with deep reinforcement learning](https://www.semanticscholar.org/paper/Socially-aware-motion-planning-with-deep-learning-Chen-Everett/fe2ef22089712fcff33a77761860a10b7834da47), Yu Fan Chen et al 2017, IROS
+
+  > Deep reinforcement learning is adopted in robot navigation among people. 
+
 * [From perception to decision: A data-driven approach to end-to-end motion planning for autonomous ground robots](https://www.semanticscholar.org/paper/From-perception-to-decision%3A-A-data-driven-approach-Pfeiffer-Schaeuble/aa0b2517c1555fc5b3885723959f7ac950ba1626), Mark Pfeiffer et al 2017, ICRA
+
+  > This work presents the first approach to learning an end-to-end goal-oriented navigation model for a robotic platform.
 
 ### manipulator
 
