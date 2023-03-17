@@ -27,7 +27,7 @@ This repo mainly collects paper of RL (Reinforcement Learning) and Its Applicati
 
 [RL4IIoT](./RL4IIoT.md): With the technological breakthrough of 5G, more and more Internet of Things (IoT) technologies are being used in industrial scenarios. Industrial IoT (IIoT), which refers to the integrating industrial manufacturing systems and the Internet of Things (IoT), has received accumulating attention. These emerging IIoT applications and have higher requirements on quality of experience (QoE) which cannot be easily satisfied by heuristic algorithms. Recently, some research use RL to learn algorithms for IIoT tasks through exploiting the potential feature of the IIoT environment,
 
-[LFHF](./LFHF.md): Learn From Human Feedback，ChatGPT的核心技术之一。
+[RLHF](./RLHF.md): Learn From Human Feedback，ChatGPT的核心技术之一。
 
 ## Tools
 
